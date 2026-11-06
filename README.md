@@ -16,8 +16,8 @@ AI와 함께 상상만 하던 아이디어를 직접 만들어보는 걸 좋아�
 | 레포 | 내용 | 언어 | 개발 기간 | 링크 |
 |---|---|---|---|---|
 | [PocketPay](https://github.com/P2P-J/PocketPay) | 작은 모임, 영수증 사진으로 거래 자동 입력되는 소모임 공금 관리 서비스 | TS | 2025.12 ~ 현재 | [App Store](https://apps.apple.com/kr/app/%EC%9E%91%EC%9D%80-%EB%AA%A8%EC%9E%84/id6763909450) |
-| [PocketPay-Toss](https://github.com/P2P-J/PocketPay-Toss) | 작은 모임 토스 미니앱 버전 | TS | 2026.05 ~ 현재 | 토스 앱에서 "작은 모임" 검색 |
-| [OpenPoll](https://github.com/P2P-J/OpenPoll) | 실시간 투표, 정치 성향 테스트, 밸런스 게임, AI 뉴스 요약 (서비스 종료, 운영 화면 캡처 포함) | TS | 2026.01 ~ 2026.05 | [openpoll.co.kr](https://www.openpoll.co.kr) (운영 종료) |
+| [PocketPay-Toss](https://github.com/P2P-J/PocketPay-Toss) | 작은 모임 토스 미니앱 버전(실 사용자 78명) | TS | 2026.05 ~ 현재 | 토스 앱에서 "작은 모임" 검색 |
+| [OpenPoll](https://github.com/P2P-J/OpenPoll) | 실시간 투표, 정치 성향 테스트, 밸런스 게임, AI 뉴스 요약 (서비스 종료, 활성 사용자 113명) | TS | 2026.01 ~ 2026.05 | [openpoll.co.kr](https://www.openpoll.co.kr) (운영 종료) |
 | [WEARESTAR](https://github.com/P2P-J/WEARESTAR) | 매일 자정 열리고 10명만 한 줄 남기는 익명 공동 일기장 (Vercel 배포) | TS | 2026.05 | [wearestar.vercel.app](https://wearestar.vercel.app) |
 | [drill-live](https://github.com/P2P-J/drill-live) | 유튜브 라이브 채팅, 슈퍼챗을 게임 트리거로 바꿔 4초 안에 반영 (Phaser, WebSocket, Electron) | JS | 2026.05 ~ 2026.06 | - |
 | [mask](https://github.com/P2P-J/mask) | 웹캠 얼굴 실시간 보정 데스크톱 앱 (MediaPipe + WebGL2, 온디바이스) | TS | 2026.06 | - |
@@ -32,7 +32,7 @@ AI와 함께 상상만 하던 아이디어를 직접 만들어보는 걸 좋아�
 
 | 레포 | 내용 | 언어 | 개발 기간 | 링크 |
 |---|---|---|---|---|
-| [AutoPlay](https://github.com/P2P-J/AutoPlay) | 강의 끝나면 다음 강의 자동 재생 | JS | 2025.09 ~ 2026.01 | [Chrome 웹스토어](https://chromewebstore.google.com/detail/autoplay/ldaonocfecodgdoedlehngekfaeobbmd) 사용자 420명 이상 |
+| [AutoPlay](https://github.com/P2P-J/AutoPlay) | 강의 끝나면 다음 강의 자동 재생 | JS | 2025.09 ~ 2026.01 | [Chrome 웹스토어](https://chromewebstore.google.com/detail/autoplay/ldaonocfecodgdoedlehngekfaeobbmd) 사용자 666명 이상 |
 | [Chat_Marker](https://github.com/P2P-J/Chat_Marker) | ChatGPT 메시지 북마크 확장 | JS | 2025.05 | [Chrome 웹스토어](https://chromewebstore.google.com/detail/chatgpt-bookmark/afbhkjccfninajblgfhmbofgfbcpjhmj) 사용자 16명 |
 
 ## AX 인재전쟁 해커톤
